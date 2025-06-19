@@ -1,0 +1,5 @@
+I am currently a fifth-year Ph.D. student at the College of Computer Science and Engineering, Nanjing University of Science and Technology supervised by [Prof. Jian Yang](https://scholar.google.com/citations?user=6CIDtZQAAAAJ). I also supervised by [Xiang Li](https://implus.github.io/) from Nankai University. 
+
+My research interests include multimodal perception, prompt engineering, and image editing. I have published 50+ papers <a href='https://scholar.google.com/citations?user=RLhH0jwAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fylingfeng%2Fylingfeng.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences and journal such as TPAMI, CVPR, NeurIPS. 
+
+I will graduate in the summer of 2025 and am looking forward to postdoc positions.
