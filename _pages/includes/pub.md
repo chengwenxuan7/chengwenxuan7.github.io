@@ -37,7 +37,6 @@
 </div>
 </div>
 
-
 <!---------------------------------------------------------------------------------------------->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022 Oral</div><img src='images/publications/2022_CVPR_DynamicMLP/main.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
