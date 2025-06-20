@@ -24,6 +24,8 @@ Fine-Grained Visual Prompting, in NeurIPS, vol. 36, pp. 24993-25006, 2023. \\
 
 [**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/file/4e9fa6e716940a7cfc60c46e6f702f52-Paper-Conference.pdf)
  | [**Code** ![](https://img.shields.io/github/stars/ylingfeng/FGVP?style=social)](https://github.com/ylingfeng/FGVP)
+ | [**中文解读**](https://mp.weixin.qq.com/s?search_click_id=10536340093298438394-1705732863737-1260009527&__biz=MzUxMDE4MzAzOA==&mid=2247714099&idx=1&sn=efe4d92ccece149d624d44a19f75404f&chksm=f8982f6663c6f4103967040294490fb7419803ceb6b54f2e79de728104a1858ad03f011d3fb8&scene=7&subscene=90&sessionid=1705732839&clicktime=1705732863&enterid=1705732863&ascene=65&fasttmpl_type=0&fasttmpl_fullversion=7038836-zh_CN-zip&fasttmpl_flag=0&realreporttime=1705732863790&devicetype=android-33&version=28002d3b&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&countrycode=CN&exportkey=n_ChQIAhIQTY3OsEwNdtlJy0RxUEMZyxLcAQIE97dBBAEAAAAAAJ%2F5F8UMLd0AAAAOpnltbLcz9gKNyK89dVj0fDJfc0iQOozTOSv7wroTFtyx6pfMLQW9ACiiUD2XPYTJToJQxVNxvrF5tAIC8R0SbOS35hwJULATy64LUtXxEgmsCoz6Cqv01v%2B25HzaDWybt6vi82M5Lad5HaUdHZAgh4kTKQl9Lri9nQxeptfavWT7F389xOk%2BXh7B4nHuFz%2BeaRdMmZf6lLv3kLpf10%2BJykklCd3SfLyGkE68DPfh1hmFhext2v%2BZTOids%2B0QavnzY7GPOQE%3D&pass_ticket=h3SZ5GzwbdiBvmS547xoTsCldqEAFLvligHaiMY%2BXuAaSiUHNNO2iFTVImHJqOpfAucoZ0LcWe34Hs99pbaVbA%3D%3D&wx_header=3&poc_token=HEYkVWijKQwOws52LqNI8BFkPicAMjsAOeCl7vHt)
+ | [**中文视频**](https://www.bilibili.com/video/BV1qw411873s/?spm_id_from=333.999.0.0&vd_source=55bfc02adba971ea9a2c7d47e95180cc)
 
 - Propose fine-grained visual prompt engineering to enhance CLIP's localization accuracy.
 
