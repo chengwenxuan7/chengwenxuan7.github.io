@@ -34,7 +34,7 @@ Fine-Grained Visual Prompting, in NeurIPS, vol. 36, pp. 24993-25006, 2023. \\
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022 Spotlight</div><img src='images/publications/2022_NeurIPS_RM/main.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-RecursiveMix: Mixed Learning with History, in NeurIPS, vol. 35, pp. 8427-8440, 2022. (Spotlight, Top 12.8%) \\
+RecursiveMix: Mixed Learning with History, in NeurIPS, vol. 35, pp. 8427-8440, 2022. (<strong style="color:red;">Spotlight</strong>, Top 12.8%) \\
 **Lingfeng Yang**, Xiang Li, Borui Zhao, Renjie Song, Jian Yang
 
 [**Paper**](https://proceedings.neurips.cc/paper_files/paper/2022/file/37e44c4b5321605735be9761f9b758fc-Paper-Conference.pdf)
@@ -51,7 +51,7 @@ RecursiveMix: Mixed Learning with History, in NeurIPS, vol. 35, pp. 8427-8440, 2
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022 Oral</div><img src='images/publications/2022_CVPR_DynamicMLP/main.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Dynamic MLP for Fine-Grained Image Classification by Leveraging Geographical and Temporal Information, in CVPR, pp. 10945-10954, 2022. (Oral, Top 3.3%) \\
+Dynamic MLP for Fine-Grained Image Classification by Leveraging Geographical and Temporal Information, in CVPR, pp. 10945-10954, 2022. (<strong style="color:red;">Oral</strong>, Top 3.3%)  \\
 **Lingfeng Yang**, Xiang Li, Renjie Song, Borui Zhao, Juntian Tao, Shihao Zhou, Jiajun Liang, Jian Yang
 
 [**Paper**](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Dynamic_MLP_for_Fine-Grained_Image_Classification_by_Leveraging_Geographical_and_CVPR_2022_paper.pdf)
