@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lingfeng Yang (杨凌风)"
+title                    : "Lingfeng Yang \\ 杨凌风"
 description              : "Phd Student in Nanjing University of Science and Technology."
 repository               : "rayeren/rayeren.github.io"
 google_scholar_stats_use_cdn : true
