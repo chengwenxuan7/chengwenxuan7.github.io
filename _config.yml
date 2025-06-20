@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Lingfeng Yang"
 description              : "Phd Student in Nanjing University of Science and Technology."
-repository               : "rayeren/rayeren.github.io"
+repository               : "ylingfeng/ylingfeng.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Lingfeng Yang \\ 杨凌风"
+  name             : "Lingfeng Yang\n杨凌风"
   avatar           : "images/self_photo/profile.png"
   bio              : ""
   location         : "Nanjing"
