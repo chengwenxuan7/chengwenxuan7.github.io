@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lingfeng Yang"
+title                    : "Lingfeng Yang (杨凌风)"
 description              : "Phd Student in Nanjing University of Science and Technology."
 repository               : "ylingfeng/ylingfeng.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Lingfeng Yang\n杨凌风"
+  name             : "Lingfeng Yang (杨凌风)"
   avatar           : "images/self_photo/profile.png"
   bio              : ""
   location         : "Nanjing"
