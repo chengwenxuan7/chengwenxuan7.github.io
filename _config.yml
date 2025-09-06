@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lingfeng Yang (杨凌风)"
-description              : "Phd Student in Nanjing University of Science and Technology."
-repository               : "ylingfeng/ylingfeng.github.io"
+title                    : "Ming Dai (戴铭)"
+description              : "Phd Student in Southeast University."
+repository               : "Dmmm1997/Dmmm1997.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Lingfeng Yang (杨凌风)"
+  name             : "Ming Dai (戴铭)"
   avatar           : "images/self_photo/profile.png"
   bio              : ""
   location         : "Nanjing"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=RLhH0jwAAAAJ"
-  email            : "ylingfeng98@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Lingfeng-Yang-5"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=s_ZB7xkAAAAJ"
+  email            : "mingdai2025@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Ming-Dai-14"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ylingfeng"
+  github           : "Dmmm1997"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : 
-  dblp             : "https://dblp.org/pid/45/7593.html"
-  orcid            : "https://orcid.org/0000-0002-2725-8947"
+  dblp             : "https://dblp.org/pid/61/6981.html"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

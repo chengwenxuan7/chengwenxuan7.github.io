@@ -1,11 +1,20 @@
-# 🎖 Honors and Awards
-- *2025.06* Outstanding Graduate (Top 1%)
-- *2025.03* Dean's Medal (Top 1%)
-- *2024.12* National Scholarship (Top 5%)
 
-**Competition**
-- *2022.10* First Prize (Team), 5th Open Source Innovation Competition
-- *2022.07* 1st Place, 2nd Jittor AI Challenge (1st out of 414 teams, ¥50,000 prize)
-- *2022.06* 2nd Place, SnakeCLEF 2022 (CVPR 2022 Workshop)
-- *2021.06* 3rd Place, iNaturalist Challenge 2021 (CVPR 2021 Workshop)
-- *2020.11* 2nd Place, 1st ZhengTu Cup Campus Machine Vision AI Competition (2nd out of 943 teams, ¥150,000 prize)
+# 🎖 Honors and Awards
+
+- *2023.12* National First Prize, 5th Global Campus AI Algorithm Elite Competition (Zero-Shot Referring Expression Understanding)
+- *2023.10* National First Prize (Track Champion), 4th "Space Cup" National Innovation and Creativity Competition (Multispectral Object Detection), Team Leader
+- *2022.08* National Second Prize (Track Runner-up), China Postgraduate Smart City Technology & Creative Design Competition (Object Detection), Team Leader
+- *2018.09* Zhejiang Provincial Robotics Competition: 2nd Prize (Shopping Track), 2nd Prize (Tourism Track), 3rd Prize (Transportation Track)
+- *2017.09* 1st Prize (East China Division) & 2nd Prize (National Division), Siemens Cup China Intelligent Manufacturing Challenge, Team Leader
+
+**Leadership & Service**
+
+- *2018–2019* President, 1st AI & Robotics Association, China Jiliang University
+
+**Scholarships & Honors**
+
+- Graduate National Scholarship
+- Zhejiang Provincial Government Scholarship
+- Outstanding Graduate of Zhejiang Province
+- Outstanding Undergraduate Graduate of China Jiliang University
+- Holder of One National Invention Patent
