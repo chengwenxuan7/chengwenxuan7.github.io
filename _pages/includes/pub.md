@@ -2,7 +2,7 @@
 
 <!---------------------------------------------------------------------------------------------->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/publications/ICCV2025-PropVG/propvg.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/publications/ICCV2025-PropVG/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 `ICCV 2025`  PropVG: End-to-End Proposal-Driven Visual Grounding with Multi-Granularity Discrimination \\
@@ -18,7 +18,7 @@
 
 <!---------------------------------------------------------------------------------------------->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/publications/ICCV2025-DeRIS/framework.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/publications/ICCV2025-DeRIS/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 `ICCV 2025` DeRIS: Decoupling Perception and Cognition for Enhanced Referring Image Segmentation through Loopback Synergy \\
@@ -33,7 +33,7 @@
 
 <!---------------------------------------------------------------------------------------------->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 (Selected as Oral)</div><img src='images/publications/AAAI2025-C3VG/framework.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 (Selected as Oral)</div><img src='images/publications/AAAI2025-C3VG/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 `AAAI 2025` Multi-task Visual Grounding with Coarse-to-Fine Consistency Constraints \\
@@ -48,7 +48,7 @@
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/publications/NeurIPS2025-SimVG/framework.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/publications/NeurIPS2025-SimVG/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 `NeurIPS 2024` SimVG: A Simple Framework for Visual Grounding with Decoupled Multi-modal Fusion \\
@@ -93,7 +93,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2021</div><img src='images/publications/TCSVT2021-FSRA/main.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2021</div><img src='images/publications/TCSVT2021-FSRA/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 `TCSVT 2021` A Transformer-Based Feature Segmentation and Region Alignment Method For UAV-View Geo-Localization \\
