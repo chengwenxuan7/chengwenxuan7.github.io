@@ -1,6 +1,6 @@
 # 📖 Educations
 
-- *2020.09 – present* Ph.D. Student, School of Automation, Southeast University, Hangzhou, China.
+- *2020.09 – present* Ph.D. Student, School of Automation, Southeast University, Nanjing, China.
 - *2020.09 – 2023.06* Master’s Student, China Jiliang University, Hangzhou, China.
 - *2016.09 – 2020.06* Undergraduate Student, China Jiliang University, Hangzhou, China.
 
