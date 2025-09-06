@@ -7,11 +7,11 @@
 - *2018.09* Zhejiang Provincial Robotics Competition: 2nd Prize (Shopping Track), 2nd Prize (Tourism Track), 3rd Prize (Transportation Track)
 - *2017.09* 1st Prize (East China Division) & 2nd Prize (National Division), Siemens Cup China Intelligent Manufacturing Challenge, Team Leader
 
-**Leadership & Service**
+**Leadership and Service**
 
 - *2018–2019* President, 1st AI & Robotics Association, China Jiliang University
 
-**Scholarships & Honors**
+**Scholarships and Honors**
 
 - Graduate National Scholarship
 - Zhejiang Provincial Government Scholarship
