@@ -16,3 +16,7 @@
 
 - TNNLS,TCSVT, ISPRS,PR
 - NeurIPS2025, CVPR2025, ICCV2025, AAAI2026
+
+**Leadership**
+
+- *2018–2019* President, 1st AI and Robotics Association, China Jiliang University
