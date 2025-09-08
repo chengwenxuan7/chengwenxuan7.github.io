@@ -26,6 +26,7 @@
 
 [**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/file/4e9fa6e716940a7cfc60c46e6f702f52-Paper-Conference.pdf)
  | [**Code** ![img](https://img.shields.io/github/stars/Dmmm1997/DeRIS?style=social)](https://github.com/Dmmm1997/DeRIS)
+ | [**中文解读**](https://zhuanlan.zhihu.com/p/1948344988695007969)
 
 </div>
 </div>
