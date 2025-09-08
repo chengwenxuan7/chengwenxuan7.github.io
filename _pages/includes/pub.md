@@ -8,7 +8,7 @@
 `ICCV 2025`  PropVG: End-to-End Proposal-Driven Visual Grounding with Multi-Granularity Discrimination \\
 **Ming Dai**, Wenxuan Cheng, Jiedong Zhuang, Jiang-jiang Liu, Hongshen Zhao, Zhenhua Feng, Wankou Yang
 
-[**Paper**]()
+[**Paper**](https://arxiv.org/abs/2509.04833)
  | [**Code** ![](https://img.shields.io/github/stars/Dmmm1997/PropVG?style=social)](https://github.com/Dmmm1997/PropVG)
 
 </div>
