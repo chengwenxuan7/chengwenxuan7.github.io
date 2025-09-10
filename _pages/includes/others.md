@@ -1,7 +1,7 @@
 # 📖 Educations
 
-- *2024.09 – present* Master’s Student, School of Automation, Southeast University, Nanjing, China.
-- *2020.09 – 2024.06* Undergraduate Student, Ocean University of China, Qingdao, China.
+- *2024.09 – present*  Master’s Student, School of Automation, Southeast University, Nanjing, China.
+- *2020.09 – 2024.06*  Undergraduate Student, Ocean University of China, Qingdao, China.
 
 <!-- # 💻 Internships
 
