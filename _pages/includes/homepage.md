@@ -1,5 +1,4 @@
 # 📎 Homepages
 
-- Personal Pages: https://Dmmm1997.github.io/ (updated recently🔥)
-- Google Scholar: https://scholar.google.com/citations?user=s_ZB7xkAAAAJ
-- DBLP: https://dblp.org/pid/61/6981.html
+- Personal Pages: https://chengwenxuan7.github.io/ (updated recently🔥)
+- Google Scholar: https://scholar.google.com/citations?hl=zh-CN&user=9c_ZcDcAAAAJ

@@ -1,6 +1,4 @@
 
-I am currently a third-year Ph.D. student in the School of Automation, Southeast University, under the supervision of [Prof. Wankou Yang](https://scholar.google.com/citations?user=PMzEsJgAAAAJ&hl=zh-CN).
+I am currently a master's student in the School of Automation, Southeast University, under the supervision of [Prof. Wankou Yang](https://scholar.google.com/citations?user=PMzEsJgAAAAJ&hl=zh-CN). Previously, I received my bachelor's degree from Ocean University of China in 2024.
 
-My research interests include **Visual Grounding** and **Pixel Understanding for LMMs**. 
-
-I have published 7+ papers in top international AI conferences and journals such as **TPAMI, TIP, TCSVT, ICCV, NeurIPS, and AAAI**.
+My research interests include **Visual Grounding** and **Referring Video Object Segmentation**. 
