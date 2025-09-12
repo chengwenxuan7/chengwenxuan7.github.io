@@ -10,6 +10,7 @@ Ming Dai<sup>*</sup>, **Wenxuan Cheng<sup>*</sup>**, Jiedong Zhuang, Jiang-jiang
 
 [**Paper**](https://arxiv.org/abs/2509.04833)
  | [**Code** ![](https://img.shields.io/github/stars/Dmmm1997/PropVG?style=social)](https://github.com/Dmmm1997/PropVG)
+ | [**中文解读**](https://zhuanlan.zhihu.com/p/1949930171244218216)
 
 </div>
 </div>
