@@ -1,5 +1,21 @@
 # 📝 Publications
 
+
+<!---------------------------------------------------------------------------------------------->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/publications/TPAMI-InstanceVG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+`TPAMI 2025`  Improving Generalized Visual Grounding with Instance-aware Joint Learning \\
+Ming Dai<sup>*</sup>, **Wenxuan Cheng<sup>*</sup>**, Jiang-jiang Liu, Lingfeng Yang, Zhenhua Feng, Wankou Yang, Jingdong Wang
+
+[**Paper**](https://ieeexplore.ieee.org/document/11153716)
+ | [**Code** ![](https://img.shields.io/github/stars/Dmmm1997/InstanceVG?style=social)](https://github.com/Dmmm1997/InstanceVG)
+    | [**中文解读**](https://zhuanlan.zhihu.com/p/1951971188877275922)
+
+</div>
+</div>
+
 <!---------------------------------------------------------------------------------------------->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/publications/ICCV2025-PropVG/framework.jpg' alt="sym" width="100%"></div></div>
